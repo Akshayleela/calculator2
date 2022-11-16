@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+}
+.card{
+    margin-top: 10%;
+    margin-left: 25%;
+    box-shadow: 0px 0px 39px gold;
+    /* width: 65%; */
+    /* position: relative; */
+    margin-right: 25%;
+}
+.card-header{
+    background-color: black;
+    border: 13px double gold;
+    padding: 1rem 3px;
+    
+}
+#inpt1{
+    width: 93%;
+    border-radius: 9px;
+    border:1px dotted;
+}
+.card-body{
+    padding:0rem 0rem;
+    margin-right: 0%;
+    margin-left: 0%;
+}
+input[type="button"]{
+    height: 20px;
+    width:20%;
+    border-radius: 19px;
+    box-shadow: 2px 2px 3px #00d2ff;
+    font-weight: 600;
+    font-size: 5px;
+    border:1px dotted;
+    padding: 0rem 0rem;
+}
+#clear{
+    color: red;
+    box-shadow: 2px 2px 3px red;
+}
+.space{
+    margin-bottom: 1%;
+}
+#num{
+    color:aqua;
+}
+#opt{
+    color: gold;
+    box-shadow: 2px 2px 3px gold;
+}
+#opt1{
+    box-shadow: 2px 2px 3px honeydew;
+    color: honeydew;
+}
